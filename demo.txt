@@ -1,3 +1,10 @@
-877 lili 
-666   
-555   
+现代操作系统 Andrew
+linux内核设计与实现
+计算机组成：结构化方法 Tanuenbaum
+unix网络编程 Richard
+算法导论 Thomas
+Unix环境高级编程 Richard
+算法竞赛入门经典
+C++Primer Lippman
+C++编程思想 Bruce
+数据结构Algorithms Sanjoy 
