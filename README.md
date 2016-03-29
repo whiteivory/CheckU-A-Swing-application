@@ -1,6 +1,8 @@
 # CheckU-A-Swing-application
 一个Swing应用允许你记录一些不重复的信息及备注，用文件方式存储
 仿照key-value方式，key对应ID，value对应备注Remark
+##运行
+    双击运行CheckU.jar
 ##初始化
     可以用txt文档初始化你的数据，每行一组数据，用空格分隔
 ![](https://github.com/whiteivory/CheckU-A-Swing-application/raw/master/img/1.png)
