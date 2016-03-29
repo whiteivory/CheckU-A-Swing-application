@@ -228,6 +228,7 @@ public class MainFrame {
                 e.printStackTrace();
             }
         }
+        saveFlag = false;
     }
 
     public void find(String str){
